@@ -9,3 +9,5 @@ It is an e-commerce site for buying pre-built computers and customize the comput
 
 **SOFTWARE REQUIREMENT:**  
 Python 3
+
+***find attached documentation file for screenshots and more details***
